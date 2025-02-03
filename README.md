@@ -1,6 +1,10 @@
 # 翻墙、翻墙工具、翻墙教程、科学上网
 
-科学上网教程：https://clash01.com
+## 🚀福云机场，专属七折优惠卷，折后低至8元。
+
+购买套餐时输入【clash01.com】享7折优惠，优惠卷可重复使用。
+
+[点击进入福云机场官网。](https://fuuu.cloud)
 
 ## [clash 教程](https://clash01.com/category/clientdoc/clash/)
 
