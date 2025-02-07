@@ -1,12 +1,14 @@
 # 科学上网教程
 
-## 🚀 机场推荐
+## 机场推荐:[福云](https://fuuu.cloud)
 
-福云机场，专属七折优惠卷，折后低至8元。
+* 价格低 - 目前七折优惠，折后低至8元。
 
-购买套餐时输入【clash01.com】享7折优惠，优惠卷可重复使用。
+* 速度快 - 晚高峰看youtubo高清不卡顿。
 
-[点击进入福云机场官网。](https://fuuu.cloud)
+* 稳定 - 稳定运营二年多，海外团队。
+
+购买套餐时输入【github】享7折优惠，点击进入[福云机场官网](https://fuuu.cloud)。
 
 ## [clash 教程](https://clash01.com/category/clientdoc/clash/)
 
